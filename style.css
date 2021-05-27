@@ -39,6 +39,10 @@ body {
     background-color:white;
 }
 
+.zoom:hover {
+    transform: scale(2);
+}
+
 /* Bar Graph Horizontal */
 .bar-graph .year {
     -webkit-animation: fade-in-text 2.2s 0.1s forwards;
