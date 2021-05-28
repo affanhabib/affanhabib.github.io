@@ -40,7 +40,7 @@ body {
 }
 
 .zoom:hover {
-    transform: scale(2);
+    transform: scale(1.5);
 }
 
 /* Bar Graph Horizontal */
@@ -160,4 +160,8 @@ body {
     100% {
       opacity: 1;
     }
+  }
+
+  button {
+    background-color: #3498DB !important;
   }
